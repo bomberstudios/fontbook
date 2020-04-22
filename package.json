@@ -1,7 +1,7 @@
 {
   "name": "fontbook",
   "description": "FontBook creates a bunch of random text layers, using all the installed font families in your computer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "sketch": ">=49.0"
   },
